@@ -1,5 +1,7 @@
 /Saku Overclock.CrashHandler/bin/
 /Saku Overclock.CrashHandler/obj/
+/CrashHandler/bin
+/CrashHandler/obj
 /packages/
 /.idea/
 /.git/
